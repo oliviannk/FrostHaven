@@ -1,0 +1,13 @@
+{
+  "energy.daily_report": "今日地热能量：{{value}}/50",
+  "energy.low": "地热能量不足！温室作物停止生长。",
+  "outdoor.freezing": "你正在被冻伤！-{0} HP",
+  "tv.emergency_news": "紧急新闻 - 请查看电视！",
+  "tv.channel_title": "冰霜避难所新闻",
+  "tv.broadcast": "气象专家警告，史无前例的极寒风暴即将席卷星露谷，请所有居民立即前往避难所。气象部门预计极端气温和危险天气条件。请留在室内，做好最坏准备。",
+  "buff.coldimmunity.name": "寒冷免疫",
+  "buff.coldimmunity.coffee": "咖啡温暖了你的身体，暂时免疫寒冷！",
+  "buff.coldimmunity.greentea": "绿茶温暖了你的身体，暂时免疫寒冷！",
+  "starting_gift.title": "妈妈的来信",
+  "starting_gift.body": "亲爱的 @，^^听说你要去星露谷了。最近天气变化无常，给你寄一些热饮，帮你在寒冷的日子里撑过去。^^照顾好自己！^    —— 妈妈"
+}

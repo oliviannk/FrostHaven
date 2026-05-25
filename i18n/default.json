@@ -1,0 +1,12 @@
+{
+  "energy.daily_report": "Geothermal energy today: {{value}}/50",
+  "energy.low": "Low geothermal energy! Greenhouse crops stopped growing.",
+  "outdoor.freezing": "You're freezing! -{0} HP",
+  "tv.emergency_news": "Emergency News",
+  "tv.broadcast": "Meteorologists warn that an unprecedented extreme cold storm is about to sweep through Stardew Valley. All residents should seek shelter immediately.",
+  "buff.coldimmunity.name": "Cold Immunity",
+  "buff.coldimmunity.coffee": "Coffee warms your body. Temporarily immune to cold!",
+  "buff.coldimmunity.greentea": "Green Tea warms your body. Temporarily immune to cold!",
+  "starting_gift.title": "A letter from Mom",
+  "starting_gift.body": "Dear @,^^I heard you're heading to Stardew Valley. The weather has been unpredictable lately, so I'm sending you some warm drinks to help you get through the cold days.^^Take care of yourself!^    - Mom"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "FrostHaven",
+  "Author": "Ann",
+  "Version": "1.0.0",
+  "Description": "末世极寒生存 mod",
+  "UniqueID": "YourName.FrostHaven",
+  "EntryDll": "FrostHaven.dll",
+  "MinimumApiVersion": "4.0.0"
+}
